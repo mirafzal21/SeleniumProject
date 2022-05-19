@@ -4,7 +4,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 from selenium.webdriver.support.select import Select
 
-# VARIABLE
+# VARIABLES
 
 url = "http://automationpractice.com"
 email = f"jdoe{time.strftime('%Y%m%d%H%M%S')}@mail.com"
